@@ -1,16 +1,22 @@
-### Olá! eu sou o Rubens Farias amante da tecnologia! 👋
-</div>
-  <h4 align="center">
+### Hi there 👋
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+I'm Rubens Farias, a student and technology lover.
 
-<div align="left">
-  <a href="https://github.com/rubensbfarias">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rubensbfarias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensbfarias&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div style="display: inline_block"><br>
+## Things I am passionate about
 
-</div>
+- 📈 Hacking
+- 🤖 Deep Learning
+- 🧠 Neural Networks
+- 👁️ Computer Vision
 
-  ##
+## Get in touch
+
+- 🌐 [Personal website](www.rubensbfarias.com)
+- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/rubensbfarias/)
+
+![Rubens github stats](https://github-readme-stats.vercel.app/api?username=rubensbfarias&count_private=true&show_icons=true&theme=algolia)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rubensbfarias/count.svg" />
+</p>
