@@ -7,7 +7,6 @@ I'm Rubens Farias, a student and technology lover.
 - 📈 Hacking
 - 🤖 Deep Learning
 - 🧠 Neural Networks
-- 👁️ Computer Vision
 
 ## Get in touch
 
